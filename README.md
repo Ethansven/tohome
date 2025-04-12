@@ -6,7 +6,7 @@
 3. ``` npx tsc --init <br/> npx ts-jest config:init ```
 
 ## How to run the server
-1. Clone the project with ``` git clone [link](https://github.com/Ethansven/tohome.git)```
+1. Clone the project with ``` git clone https://github.com/Ethansven/tohome.git```
 2. cd your repo
 3. run ``` npm i ```
 4. run ``` npm run dev ```
