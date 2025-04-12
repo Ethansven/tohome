@@ -3,7 +3,8 @@
 ### Run the following command line to install express, axios, typescript, typescript config, jest and jest config.
 1. ``` npm install express axios ```
 2. ``` npm install --save-dev typescript @types/node @types/express jest ts-jest @types/jest ```
-3. ``` npx tsc --init <br/> npx ts-jest config:init ```
+3. ``` npx tsc --init```
+4. ``` npx ts-jest config:init ```
 
 ## How to run the server
 1. Clone the project with ``` git clone https://github.com/Ethansven/tohome.git```
