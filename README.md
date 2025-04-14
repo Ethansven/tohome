@@ -10,8 +10,11 @@
 1. Clone the project with ``` git clone https://github.com/Ethansven/tohome.git```
 2. cd your repo
 3. run ``` npm i ```
-4. run ``` npm run dev ```
-5. visit this [link](http://localhost:3000/api/users/summary)
+4. run ```npm test``` (optional if you want to try run test written by jest)
+5. run ``` npm run dev ```
+6. visit this [link](http://localhost:3000/api/users/summary)
+
+
 ## Sample requests using Postman
 ![postman result](./API/assets/postmanResult.png)
 
